@@ -1,0 +1,8 @@
+Pasta	27
+Burger	5.5
+Sandwich	3.2
+Biryani	20
+Ice Cream	3
+Iced Lemon Tea	3.8
+Coke	3.2
+Fresh Orange Juice	4.5

@@ -1,0 +1,8 @@
+Pizza	27.00	
+Burger	5.50		
+Sandwich	3.20	
+Biryani	20.00	
+Ice Cream	3.00	
+Iced Lemon Tea	3.80	
+Coke	3.20	
+Fresh Orange Juice	4.50	
